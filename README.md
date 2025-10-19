@@ -3,7 +3,7 @@
 
 ## Objective
 
-[cite\_start]This project's goal is to develop a ROS 2 node-based pick-and-place application for the uFactory Lite 6 arm. [cite: 6] [cite\_start]It features model-based impedance control for compliant manipulation. [cite: 7] This setup uses the Gazebo simulator to test the control and manipulation stack without requiring physical hardware.
+This project's goal is to develop a ROS 2 node-based pick-and-place application for the uFactory Lite 6 arm. It features model-based impedance control for compliant manipulation. This setup uses the Gazebo simulator to test the control and manipulation stack without requiring physical hardware.
 
 This documentation covers the setup of the ROS 2 workspace and the Gazebo simulation environment. The impedance controller and pick-and-place application will be added in future updates.
 
