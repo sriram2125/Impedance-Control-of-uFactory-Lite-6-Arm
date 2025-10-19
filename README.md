@@ -1,8 +1,3 @@
-Of course. Here is a complete `README.md` file for setting up the project using the Gazebo simulator.
-
-This guide consolidates all the steps and fixes we worked through into a clean, step-by-step process for the new PC.
-
------
 
 # ROS 2 Impedance Control for uFactory Lite 6 with Gazebo Simulation
 
@@ -52,14 +47,14 @@ sudo apt install -y \
 
 ### Step 3: Download Robot Source Code
 
-The most reliable method to get the robot's 3D models and source files is to download the repository as a ZIP file. This avoids potential issues with Git LFS.
+I'm using the Humble, so if you are using any other version, change Humble to your respective version.
 
 ```bash
 # Navigate to your workspace's source folder
 cd ~/ufactory_ws/src
 
 # Download the repository ZIP for the Humble branch
-wget https://github.com/xArm-Developer/xarm_ros2/archive/refs/heads/humble.zip
+wget git clone https://github.com/xArm-Developer/xarm_ros2.git --recursive -b humble.zip
 
 # Unzip the archive
 unzip humble.zip
