@@ -112,3 +112,10 @@ echo "source /usr/share/gazebo/setup.sh" >> ~/.bashrc
 ```
 
 After running this, every new terminal you open will be automatically configured for Gazebo.
+
+
+### I'm Currently trying to do the Force impedance on pyBullet i'll update the steps as I do it 
+
+
+
+
