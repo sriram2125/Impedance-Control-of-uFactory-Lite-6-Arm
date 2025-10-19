@@ -96,7 +96,7 @@ source ~/ufactory_ws/install/setup.bash
 ros2 launch xarm_gazebo xarm_beside_table_gazebo.launch.py
 ```
 
-![Image Alt]([image_url](https://github.com/sriram2125/Impedance-Control-of-uFactory-Lite-6-Arm/blob/ede20e5dc8360c9dab5a4859f4e6c0609342ff7f/CleanShot%202025-10-17%20at%2022.21.55%402x.png)).
+![Image Alt](https://github.com/sriram2125/Impedance-Control-of-uFactory-Lite-6-Arm/blob/ede20e5dc8360c9dab5a4859f4e6c0609342ff7f/CleanShot%202025-10-17%20at%2022.21.55%402x.png).
 
 ### Expected Outcome
 
